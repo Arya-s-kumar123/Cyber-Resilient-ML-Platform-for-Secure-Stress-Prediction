@@ -1,0 +1,2 @@
+# Cyber-Resilient-ML-Platform-for-Secure-Stress-Prediction
+Cyber‑Resilient Stress Prediction Platform uses ML and AES‑based security to predict stress from sleep data. Modules: Admin (governance), Doctor (secure access, prescriptions), Patient (submit/view data), Prediction (Random Forest, 5 stress levels), Security (encryption, RBAC, HTTPS). Ensures privacy, accuracy, resilience for healthcare use.
